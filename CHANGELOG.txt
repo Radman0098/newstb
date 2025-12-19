@@ -1,0 +1,32 @@
+STB5 Project - Full Backup Changelog
+=====================================
+
+Backup Date: 2025-12-18 15:16:03
+
+This backup includes ALL components necessary for complete model reconstruction:
+
+Components Included:
+- Complete source code
+- All trained models (XGBoost, LSTM, PatchTST, CatBoost)
+- Raw and processed data
+- Configuration files
+- Optuna optimization databases
+- CatBoost training information
+- Documentation
+- Scripts and utilities
+- MQL5 code
+- Test suites
+- Recent logs and charts
+
+Model Files:
+71 model files included
+
+Data Files:
+74 data files included
+
+This backup can be used to:
+1. Reconstruct the exact model state
+2. Continue training from checkpoint
+3. Reproduce all results
+4. Deploy to production
+5. Analyze model performance

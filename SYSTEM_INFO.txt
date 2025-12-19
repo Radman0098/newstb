@@ -1,0 +1,90 @@
+========================================
+STB5 Project - FULL BACKUP for Model Reconstruction
+========================================
+
+Backup Date: 2025-12-18 15:16:01
+System Information:
+Linux pop-os 6.17.9-76061709-generic #202511241048~1764607909~24.04~df6b2b6 SMP PREEMPT_DYNAMIC Mon D x86_64 x86_64 x86_64 GNU/Linux
+
+Python Environment:
+Python 3.12.3
+pip 25.3 from /home/asr/.local/lib/python3.12/site-packages/pip (python 3.12)
+
+Project Statistics:
+- Total Python files: 175
+- Total Markdown files: 45
+- Total YAML files: 13
+- Total Model files: 71
+- Total Data files: 74
+- Total files: 680
+- Total directories: 105
+
+Project Structure:
+/tmp/STB5_FULL_BACKUP_20251218_151600
+/tmp/STB5_FULL_BACKUP_20251218_151600/catboost_info
+/tmp/STB5_FULL_BACKUP_20251218_151600/charts
+/tmp/STB5_FULL_BACKUP_20251218_151600/config
+/tmp/STB5_FULL_BACKUP_20251218_151600/data
+/tmp/STB5_FULL_BACKUP_20251218_151600/data/processed
+/tmp/STB5_FULL_BACKUP_20251218_151600/data/raw
+/tmp/STB5_FULL_BACKUP_20251218_151600/logs
+/tmp/STB5_FULL_BACKUP_20251218_151600/logs/narrative_reports
+/tmp/STB5_FULL_BACKUP_20251218_151600/models
+/tmp/STB5_FULL_BACKUP_20251218_151600/models/blindspot
+/tmp/STB5_FULL_BACKUP_20251218_151600/models/locks
+/tmp/STB5_FULL_BACKUP_20251218_151600/models/lstm
+/tmp/STB5_FULL_BACKUP_20251218_151600/models/patchtst
+/tmp/STB5_FULL_BACKUP_20251218_151600/models/positions
+/tmp/STB5_FULL_BACKUP_20251218_151600/models/production
+/tmp/STB5_FULL_BACKUP_20251218_151600/models/production/atomic_v1
+/tmp/STB5_FULL_BACKUP_20251218_151600/models/production/sequential_v1
+/tmp/STB5_FULL_BACKUP_20251218_151600/models/reports
+/tmp/STB5_FULL_BACKUP_20251218_151600/models/reports/failure
+/tmp/STB5_FULL_BACKUP_20251218_151600/models/reports/similarity
+/tmp/STB5_FULL_BACKUP_20251218_151600/models/slippage
+/tmp/STB5_FULL_BACKUP_20251218_151600/models/smoke
+/tmp/STB5_FULL_BACKUP_20251218_151600/models/smoke/reports
+/tmp/STB5_FULL_BACKUP_20251218_151600/mql5
+/tmp/STB5_FULL_BACKUP_20251218_151600/mql5/Experts
+/tmp/STB5_FULL_BACKUP_20251218_151600/notebooks
+/tmp/STB5_FULL_BACKUP_20251218_151600/scripts
+/tmp/STB5_FULL_BACKUP_20251218_151600/scripts/__pycache__
+/tmp/STB5_FULL_BACKUP_20251218_151600/src
+/tmp/STB5_FULL_BACKUP_20251218_151600/src/analysis
+/tmp/STB5_FULL_BACKUP_20251218_151600/src/analysis/__pycache__
+/tmp/STB5_FULL_BACKUP_20251218_151600/src/app
+/tmp/STB5_FULL_BACKUP_20251218_151600/src/app/__pycache__
+/tmp/STB5_FULL_BACKUP_20251218_151600/src/backtest
+/tmp/STB5_FULL_BACKUP_20251218_151600/src/backtest/__pycache__
+/tmp/STB5_FULL_BACKUP_20251218_151600/src/data
+/tmp/STB5_FULL_BACKUP_20251218_151600/src/data/__pycache__
+/tmp/STB5_FULL_BACKUP_20251218_151600/src/domain
+/tmp/STB5_FULL_BACKUP_20251218_151600/src/domain/__pycache__
+/tmp/STB5_FULL_BACKUP_20251218_151600/src/execution
+/tmp/STB5_FULL_BACKUP_20251218_151600/src/execution/__pycache__
+/tmp/STB5_FULL_BACKUP_20251218_151600/src/features
+/tmp/STB5_FULL_BACKUP_20251218_151600/src/features/__pycache__
+/tmp/STB5_FULL_BACKUP_20251218_151600/src/models
+/tmp/STB5_FULL_BACKUP_20251218_151600/src/models/__pycache__
+/tmp/STB5_FULL_BACKUP_20251218_151600/src/__pycache__
+/tmp/STB5_FULL_BACKUP_20251218_151600/src/services
+/tmp/STB5_FULL_BACKUP_20251218_151600/src/services/__pycache__
+/tmp/STB5_FULL_BACKUP_20251218_151600/src/strategies
+
+Key Components Included:
+✓ Source Code: src/
+✓ Scripts: scripts/
+✓ Configuration: config/
+✓ Trained Models: models/*.joblib, *.pt
+✓ Raw Data: data/raw/
+✓ Processed Data: data/processed/
+✓ Tests: tests/
+✓ MQL5: mql5/
+✓ Documentation: *.md files
+✓ Requirements: requirements.txt
+✓ Optuna Databases: optuna_*.db
+✓ CatBoost Info: catboost_info/
+✓ Charts: charts/ (sample)
+✓ Logs: logs/ (recent)
+
+This backup contains ALL necessary files for complete model reconstruction.

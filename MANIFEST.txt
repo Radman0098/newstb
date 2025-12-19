@@ -1,0 +1,29 @@
+STB5 Full Backup Manifest
+=========================
+
+Backup Information:
+- Date: 2025-12-18 15:16:03
+- Project: STB5 Trading AI System
+- Purpose: Complete model reconstruction
+- Location: /home/asr/Desktop/STB5_FULL_BACKUP_20251218_151600.zip
+
+Contents Summary:
+- Source code: 112 files
+- Models: 71 files
+- Data: 74 files
+- Config: 11 files
+- Scripts: 56 files
+- Tests: 26 files
+- Documentation: 30 files
+
+Total Files: 685
+Total Size: 1.1G
+
+Critical Files for Reconstruction:
+✓ All trained models (*.joblib, *.pt)
+✓ All configuration files (*.yaml)
+✓ All raw data (data/raw/*.csv)
+✓ All processed data (data/processed/*)
+✓ Optuna databases (optuna_*.db)
+✓ Requirements (requirements.txt)
+✓ Source code (src/)
